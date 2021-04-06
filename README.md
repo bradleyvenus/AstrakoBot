@@ -1,4 +1,4 @@
-![AstrakoBot](https://i.imgur.com/1oah5E2.jpg)
+![AstrakoBot](https://telegra.ph/file/1abb878ebd2960d1d45c5.jpg)
 # AstrakoBot 
 <p align="center">
 <a href="https://www.codacy.com/gh/Astrako/AstrakoBot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Astrako/AstrakoBot&amp;utm_campaign=Badge_Grade" alt="Codacy Badge">
